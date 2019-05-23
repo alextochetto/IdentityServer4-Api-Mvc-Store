@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Api/bin
+/src/Api/obj
+/src/Mvc/bin
+/src/Mvc/obj
+/src/IdentityServerHost/bin
+/src/IdentityServerHost/obj
+/src/Register.Api/bin
+/src/Register.Api/obj
+/src/Mvc/Properties/PublishProfiles
+/src/IdentityServerHost/Properties/PublishProfiles
