@@ -13,3 +13,7 @@
 /src/Register.Api/obj
 /src/Mvc/Properties/PublishProfiles
 /src/IdentityServerHost/Properties/PublishProfiles
+/src/IdentityServerHost/node_modules
+/src/IdentityServerHost/wwwroot/lib
+/src/Mvc/node_modules
+/src/Mvc/wwwroot/lib

@@ -1,15 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2047
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerHost", "src\IdentityServerHost\IdentityServerHost.csproj", "{6A0FEDC8-55D5-40F5-8B12-5B1F9B47D891}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerHost", "src\IdentityServerHost\IdentityServerHost.csproj", "{6A0FEDC8-55D5-40F5-8B12-5B1F9B47D891}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc", "src\Mvc\Mvc.csproj", "{86368365-73D4-4126-82F2-08A7EA261EE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mvc", "src\Mvc\Mvc.csproj", "{86368365-73D4-4126-82F2-08A7EA261EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "src\Api\Api.csproj", "{89971BD5-0525-4D28-AF11-B8A14BCA6331}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "src\Api\Api.csproj", "{89971BD5-0525-4D28-AF11-B8A14BCA6331}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Register.Api", "src\Register.Api\Register.Api.csproj", "{408AABA4-2082-430C-B706-6E85FAEB171B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Register.Api", "src\Register.Api\Register.Api.csproj", "{408AABA4-2082-430C-B706-6E85FAEB171B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1248C564-3950-4A47-B6BB-00FE0E3363C4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
