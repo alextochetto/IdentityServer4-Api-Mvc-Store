@@ -15,6 +15,7 @@
 /src/IdentityServerHost/Properties/PublishProfiles
 /src/IdentityServerHost/node_modules
 /src/IdentityServerHost/wwwroot/lib
+/src/IdentityServerHost/package-lock.json
 /src/Mvc/node_modules
 /src/Mvc/wwwroot/lib
 /src/Mvc/package-lock.json
