@@ -17,3 +17,4 @@
 /src/IdentityServerHost/wwwroot/lib
 /src/Mvc/node_modules
 /src/Mvc/wwwroot/lib
+/src/Mvc/package-lock.json
